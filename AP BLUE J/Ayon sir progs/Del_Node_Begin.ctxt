@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Del_Node_Begin()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ create_First_Node()
+comment3.params=
+comment3.target=void\ creation_End()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=
+comment5.target=void\ del_Begin()
+numComments=6

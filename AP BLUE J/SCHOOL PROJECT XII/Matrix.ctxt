@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=a\ n
+comment0.target=void\ row_Wise_Sum(int[][],\ int)
+comment0.text=Instance\ variable\ declaration
+comment1.params=a\ n
+comment1.target=void\ right_Uptriangle(int[][],\ int)
+comment2.params=a\ n
+comment2.target=void\ min_2(int[][],\ int)
+comment3.params=
+comment3.target=void\ getData()
+comment4.params=a\ n
+comment4.target=void\ display(int[][],\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

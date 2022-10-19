@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n\ cb\ tb
+comment0.target=void\ main(java.lang.String,\ int,\ int)
+comment1.params=in\ cb\ tb
+comment1.target=java.lang.String\ icon(java.lang.String,\ int,\ int)
+comment2.params=in\ cb\ tb
+comment2.target=java.lang.String\ fcon(java.lang.String,\ int,\ int)
+numComments=3

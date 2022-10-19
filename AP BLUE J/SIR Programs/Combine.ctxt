@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=s1
+comment0.target=Combine(int)
+comment1.params=
+comment1.target=void\ getElement()
+comment2.params=
+comment2.target=void\ seperatePosNeg()
+comment3.params=p\ n
+comment3.target=void\ arrangement(int[],\ int[])
+comment4.params=k
+comment4.target=void\ display(int[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

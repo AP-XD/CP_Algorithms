@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=void\ arrange(java.lang.String)
+comment1.params=a
+comment1.target=boolean\ isVowel(char)
+comment2.params=s
+comment2.target=void\ work(java.lang.String)
+comment3.params=s
+comment3.target=java.lang.String\ send(java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

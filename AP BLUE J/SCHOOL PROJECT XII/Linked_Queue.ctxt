@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Linked_Queue()
+comment0.text=Default\ Constructor
+comment1.params=data
+comment1.target=void\ insert(int)
+comment1.text=Function\ to\ insert\ an\ element\ to\ the\ queue
+comment2.params=
+comment2.target=void\ remove()
+comment2.text=Function\ to\ remove\ front\ element\ from\ the\ queue
+comment3.params=
+comment3.target=void\ display()
+comment3.text=Function\ to\ display\ the\ status\ of\ the\ queue
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

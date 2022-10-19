@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=int\ Dec2Bin(int)
+comment1.params=b
+comment1.target=int\ Bin2Dec(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ input()
+comment0.text=Instance\ variable\ declaration
+comment1.params=
+comment1.target=void\ sum_Of_Series()
+comment2.params=x1\ n1
+comment2.target=double\ calculate(int,\ int)
+comment3.params=n1
+comment3.target=int\ calculate(int)
+comment4.params=s1
+comment4.target=void\ display(double)
+numComments=5

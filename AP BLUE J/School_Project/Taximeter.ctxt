@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ input()
+comment0.text=variable\ declaration\ and\ initialization
+comment1.params=km
+comment1.target=int\ calculate(int)
+comment1.text=end\ of\ input()
+comment2.params=
+comment2.target=void\ display()
+comment2.text=end\ of\ calculate()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=end\ of\ display()
+numComments=4

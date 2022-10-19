@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ checkfibo(int)
+comment1.params=n
+comment1.target=void\ fibo(int)
+comment2.params=x
+comment2.target=void\ main(double)
+numComments=3

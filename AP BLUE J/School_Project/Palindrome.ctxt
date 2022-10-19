@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ accept()
+comment0.text=class\ variable\ declaration\ and\ initialization
+comment1.params=n
+comment1.target=boolean\ checkPalin(int)
+comment1.text=end\ of\ accept()
+comment2.params=n1
+comment2.target=void\ display(int)
+comment2.text=end\ of\ checkPalin()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=end\ of\ display()
+numComments=4

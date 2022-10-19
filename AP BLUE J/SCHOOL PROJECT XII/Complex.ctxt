@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=r\ i
+comment0.target=Complex(int,\ int)
+comment0.text=Instance\ variable\ declaration
+comment1.params=obj
+comment1.target=Complex\ add(Complex)
+comment2.params=
+comment2.target=void\ display()
+numComments=3

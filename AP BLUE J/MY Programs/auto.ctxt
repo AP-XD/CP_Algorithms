@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ square(int)
+comment1.params=n
+comment1.target=boolean\ isauto(int)
+comment2.params=n
+comment2.target=void\ allauto(int)
+numComments=3

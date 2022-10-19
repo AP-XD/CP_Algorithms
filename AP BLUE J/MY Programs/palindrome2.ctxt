@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ reverse(int)
+comment1.params=n
+comment1.target=boolean\ ispalindrome(int)
+numComments=2

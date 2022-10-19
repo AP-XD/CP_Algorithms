@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ get_data()
+comment1.params=
+comment1.target=void\ put_data()
+comment2.params=
+comment2.target=int\ returnlength()
+comment3.params=
+comment3.target=int\ returnbreadth()
+comment4.params=
+comment4.target=float\ returnradius()
+numComments=5

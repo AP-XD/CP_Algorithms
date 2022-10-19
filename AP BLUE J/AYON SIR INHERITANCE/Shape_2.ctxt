@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ getData()
+comment1.params=
+comment1.target=void\ putData()
+comment2.params=
+comment2.target=int\ rectangle()
+comment3.params=
+comment3.target=float\ circle()
+numComments=4

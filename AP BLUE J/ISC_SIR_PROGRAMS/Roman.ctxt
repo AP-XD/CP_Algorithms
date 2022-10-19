@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=void\ generate(int)
+comment1.params=pos\ c
+comment1.target=java.lang.String\ mag(int,\ char)
+comment2.params=
+comment2.target=void\ get()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

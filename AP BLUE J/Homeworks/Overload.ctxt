@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=b\ h
+comment0.target=void\ triangle_area(int,\ int)
+comment1.params=side
+comment1.target=int\ triangle_area(int)
+comment2.params=a\ b\ c
+comment2.target=float\ triangle_area(float,\ float,\ float)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

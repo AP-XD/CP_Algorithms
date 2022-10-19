@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=l
+comment0.target=void\ first(java.util.LinkedList)
+comment1.params=as
+comment1.target=void\ main(java.lang.String[])
+comment2.params=l\ s
+comment2.target=void\ choose(java.util.LinkedList,\ char)
+comment3.params=l\ s
+comment3.target=void\ work(java.util.LinkedList,\ char)
+comment4.params=l
+comment4.target=void\ rest(java.util.LinkedList)
+comment5.params=s1\ l
+comment5.target=void\ frontEnd(char,\ java.util.LinkedList)
+comment6.params=s1\ l
+comment6.target=void\ backEnd(char,\ java.util.LinkedList)
+numComments=7

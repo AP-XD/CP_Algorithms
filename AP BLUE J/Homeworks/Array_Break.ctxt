@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ array()
+comment1.params=x
+comment1.target=void\ sortasc(int[])
+comment2.params=x
+comment2.target=void\ sortdes(int[])
+comment3.params=x
+comment3.target=void\ display(int[])
+numComments=4
